@@ -176,6 +176,5 @@ $RECYCLE.BIN/
 
 # End of https://www.gitignore.io/api/node,sublimetext,windows,macos,sass
 
-dist/
 index-test.html
 test.html
