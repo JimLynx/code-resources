@@ -1,7 +1,7 @@
 
 # Code Resources
 
-Live site hosted at [WHAT THE CODE???](-----)
+Live site hosted [HERE](https://www.ci-resources.online/)
 
 This site is for educational purposes only
 
